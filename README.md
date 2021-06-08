@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on ASK Pentest
+- 👯 I’m looking for sponsors for my CTF platform
+- 💬 Ask me about CTF challenges, computer stuff
+- 📫 How to reach me: Twitter
 <!--
 **Hong5489/Hong5489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
